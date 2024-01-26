@@ -53,7 +53,6 @@
 // console.log(student.name+" Qalir");
 // }
 
-
 // TODO Task2
 
 //! Part 1
