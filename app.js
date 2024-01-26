@@ -52,3 +52,63 @@
 // else{
 // console.log(student.name+" Qalir");
 // }
+
+// TODO Task2
+
+//! Part 1
+// const color = "Green";
+
+// switch(color){
+//     case "Red":
+//     console.log("Stop");
+//     break;
+//     case "Yellow":
+//     console.log("Caution");
+//     break;
+//     case "Green":
+//     console.log("Go");
+//     break;
+//     default:
+//     console.log("Value not found")
+
+// }
+
+//! Part 2
+
+// const matrix =[
+//     [1,2],
+//     [3,4]
+// ]
+
+
+// for(let i = 0;i<matrix.length;i++){
+//     for(let j = 0;j<matrix[i].length;j++){
+//         console.log(matrix[i][j]);
+
+//     }
+    
+// }
+
+//! Part 3
+
+// const product  ={
+//     name:"Mike",
+//     price:90,
+//     inStack:true
+// }
+
+// for (const user in product) {
+//     if (Object.hasOwnProperty.call(product, user)) {
+        
+//         console.log(user+":"+product[user]);
+//     }
+// }
+
+//! Part 4
+
+// if(product.price<50 && product.inStack == "true"){
+//     console.log("Available")
+// }
+// else{
+//     console.log("Unavailable")
+// }
